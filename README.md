@@ -92,4 +92,12 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/yogesh968/game/tree/master/0180-consecutive-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
