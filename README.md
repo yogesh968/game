@@ -85,3 +85,11 @@ npm run build
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/yogesh968/game/tree/master/0180-consecutive-numbers) |
+<!---LeetCode Topics End-->
