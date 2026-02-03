@@ -133,4 +133,24 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+## Math
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+## Binary Search
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+## Prefix Sum
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
