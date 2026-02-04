@@ -136,6 +136,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Math
 |  |
@@ -153,4 +154,12 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
