@@ -95,6 +95,7 @@ This project is licensed under the **MIT License**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
 ## Bit Manipulation
@@ -162,4 +163,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
