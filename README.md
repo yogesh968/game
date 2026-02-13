@@ -98,6 +98,7 @@ This project is licensed under the **MIT License**.
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
 ## Merge Sort
 |  |
 | ------- |
@@ -142,6 +144,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+| [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
 | ------- |
@@ -174,4 +177,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
