@@ -108,11 +108,13 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
+| [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
+| [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@ This project is licensed under the **MIT License**.
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
+| [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Math
 |  |
 | ------- |
@@ -187,8 +190,13 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
+| [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
