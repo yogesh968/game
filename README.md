@@ -145,6 +145,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
@@ -152,18 +153,22 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Randomized
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Matrix
 |  |
@@ -199,4 +204,12 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
