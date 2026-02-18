@@ -153,11 +153,13 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yogesh968/game/tree/master/0069-sqrtx) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yogesh968/game/tree/master/0069-sqrtx) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
