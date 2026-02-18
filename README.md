@@ -153,6 +153,7 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/yogesh968/game/tree/master/0069-sqrtx) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
@@ -214,4 +215,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
