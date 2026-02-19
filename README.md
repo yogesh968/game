@@ -95,6 +95,7 @@ This project is licensed under the **MIT License**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
@@ -185,6 +186,7 @@ This project is licensed under the **MIT License**.
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
