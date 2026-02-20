@@ -97,6 +97,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
@@ -145,6 +146,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
