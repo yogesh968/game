@@ -129,6 +129,7 @@ This project is licensed under the **MIT License**.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/yogesh968/game/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -137,6 +138,7 @@ This project is licensed under the **MIT License**.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/yogesh968/game/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yogesh968/game/tree/master/0646-maximum-length-of-pair-chain) |
 ## Merge Sort
@@ -146,6 +148,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/yogesh968/game/tree/master/0016-3sum-closest) |
 | [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
