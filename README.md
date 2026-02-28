@@ -105,6 +105,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yogesh968/game/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
 |  |
 | ------- |
@@ -191,11 +192,13 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yogesh968/game/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## String
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yogesh968/game/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Backtracking
 |  |
 | ------- |
