@@ -127,6 +127,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yogesh968/game/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
