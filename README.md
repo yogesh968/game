@@ -104,6 +104,7 @@ This project is licensed under the **MIT License**.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/yogesh968/game/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yogesh968/game/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
@@ -170,6 +171,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/yogesh968/game/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/yogesh968/game/tree/master/0089-gray-code) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
@@ -210,6 +212,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yogesh968/game/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yogesh968/game/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/yogesh968/game/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
