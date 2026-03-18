@@ -110,18 +110,21 @@ This project is licensed under the **MIT License**.
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yogesh968/game/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yogesh968/game/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/yogesh968/game/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/yogesh968/game/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 ## Linked List
@@ -243,4 +246,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/yogesh968/game/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
