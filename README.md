@@ -206,6 +206,7 @@ This project is licensed under the **MIT License**.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yogesh968/game/tree/master/0038-count-and-say) |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
@@ -250,4 +251,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/yogesh968/game/tree/master/0099-recover-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
