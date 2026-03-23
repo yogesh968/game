@@ -208,6 +208,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yogesh968/game/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/yogesh968/game/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yogesh968/game/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -255,4 +256,5 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/yogesh968/game/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
