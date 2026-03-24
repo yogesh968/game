@@ -160,6 +160,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0016-3sum-closest](https://github.com/yogesh968/game/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yogesh968/game/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/yogesh968/game/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yogesh968/game/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
@@ -196,6 +197,7 @@ This project is licensed under the **MIT License**.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/yogesh968/game/tree/master/0498-diagonal-traverse) |
 ## Simulation
@@ -235,6 +237,7 @@ This project is licensed under the **MIT License**.
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
 | [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Reservoir Sampling
 |  |
