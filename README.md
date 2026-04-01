@@ -97,6 +97,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/yogesh968/game/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/yogesh968/game/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/yogesh968/game/tree/master/0338-counting-bits) |
@@ -163,6 +164,7 @@ This project is licensed under the **MIT License**.
 | [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/yogesh968/game/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yogesh968/game/tree/master/0051-n-queens) |
+| [0119-pascals-triangle-ii](https://github.com/yogesh968/game/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/yogesh968/game/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/yogesh968/game/tree/master/0407-trapping-rain-water-ii) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
