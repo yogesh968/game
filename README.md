@@ -134,6 +134,7 @@ This project is licensed under the **MIT License**.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yogesh968/game/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yogesh968/game/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This project is licensed under the **MIT License**.
 | [0018-4sum](https://github.com/yogesh968/game/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yogesh968/game/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +242,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yogesh968/game/tree/master/0160-intersection-of-two-linked-lists) |
 | [0690-employee-importance](https://github.com/yogesh968/game/tree/master/0690-employee-importance) |
 ## Reservoir Sampling
 |  |
