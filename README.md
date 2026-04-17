@@ -132,6 +132,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/yogesh968/game/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yogesh968/game/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh968/game/tree/master/0160-intersection-of-two-linked-lists) |
@@ -256,6 +257,7 @@ This project is licensed under the **MIT License**.
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yogesh968/game/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 ## Binary Search Tree
 |  |
