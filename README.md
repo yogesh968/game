@@ -131,6 +131,7 @@ This project is licensed under the **MIT License**.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yogesh968/game/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/yogesh968/game/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yogesh968/game/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -178,6 +179,7 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yogesh968/game/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/yogesh968/game/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/yogesh968/game/tree/master/0089-gray-code) |
@@ -257,6 +259,7 @@ This project is licensed under the **MIT License**.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yogesh968/game/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/yogesh968/game/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/yogesh968/game/tree/master/0050-powx-n) |
 ## Binary Search Tree
