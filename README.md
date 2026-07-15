@@ -186,6 +186,7 @@ This project is licensed under the **MIT License**.
 | [0089-gray-code](https://github.com/yogesh968/game/tree/master/0089-gray-code) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/yogesh968/game/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/yogesh968/game/tree/master/0528-random-pick-with-weight) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yogesh968/game/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,4 +274,8 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/yogesh968/game/tree/master/0071-simplify-path) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yogesh968/game/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
