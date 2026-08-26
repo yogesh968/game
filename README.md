@@ -95,6 +95,7 @@ This project is licensed under the **MIT License**.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yogesh968/game/tree/master/0042-trapping-rain-water) |
 | [0087-scramble-string](https://github.com/yogesh968/game/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/yogesh968/game/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/yogesh968/game/tree/master/0119-pascals-triangle-ii) |
@@ -143,6 +144,7 @@ This project is licensed under the **MIT License**.
 | [0016-3sum-closest](https://github.com/yogesh968/game/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yogesh968/game/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yogesh968/game/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/yogesh968/game/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/yogesh968/game/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yogesh968/game/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ This project is licensed under the **MIT License**.
 | [0018-4sum](https://github.com/yogesh968/game/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/yogesh968/game/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/yogesh968/game/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/yogesh968/game/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yogesh968/game/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yogesh968/game/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/yogesh968/game/tree/master/0119-pascals-triangle-ii) |
@@ -273,9 +276,14 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yogesh968/game/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yogesh968/game/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/yogesh968/game/tree/master/0071-simplify-path) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yogesh968/game/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yogesh968/game/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
